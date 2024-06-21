@@ -1,8 +1,8 @@
 # FOODZIP
 ![image](https://github.com/FRONTENDSCHOOL5/final-23-Food-zip/assets/120389195/b00a034e-216f-4153-9a73-f49219812f44)
-#### 배포 사이트 : https://foodzip.netlify.app/
-- Email : fuzip@gmail.com 
-- Password : 111111!
+#### 배포 사이트 : ~~https://foodzip.netlify.app/~~ (현재 백엔드 서버가 닫혀 사용이 불가합니다)
+- Email : `fuzip@gmail.com`
+- Password : `111111!`
 ## 🖥 프로젝트 소개
 FOODZIP은 식사를 즐기며 맛있는 음식과 훌륭한 식당을 찾는 이들을 위한 식당 공유 커뮤니티입니다. 이 프로젝트는 사용자들이 맛있는 음식을 찾고 공유하며 즐거운 식사 경험을 공유하는 데 초점을 맞추고 있습니다. 해당 커뮤니티를 통해 사용자들은 원하는 식당을 쉽게 찾고, 다양한 음식에 대한 정보를 얻을 수 있으며, 같은 관심사를 가진 사람들과 소통할 수 있습니다. 함께 맛있는 음식과 즐거운 식사를 즐길 수 있는 FOODZIP에 여러분을 초대합니다!
 #### 개발 기간
